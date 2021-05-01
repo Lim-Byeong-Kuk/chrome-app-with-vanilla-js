@@ -1,3 +1,9 @@
 # Chrome Aplication with vanilla Java Script
 
-details
+-details-
+
+Clock.
+Username Persistance.
+To Do List.
+Random Background Image.
+Weather with Geolocation.

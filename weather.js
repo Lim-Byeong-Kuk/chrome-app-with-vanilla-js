@@ -12,7 +12,7 @@ function getWeather(lat, lng){
         //console.log(json);
         const temperature = json.main.temp;
         const place = json.name;
-        weather.innerText = `오늘 기온 ${temperature}도 @ ${place}`;
+        weather.innerText = `현재 기온 ${temperature}도 @ ${place}`;
     });
 }
 
